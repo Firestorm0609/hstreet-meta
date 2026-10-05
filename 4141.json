@@ -1,0 +1,31 @@
+{
+  "name": "HoodStreet #4141",
+  "description": "One of 4,444 living tokens. Each Agent carries its own mind and a capped treasury — it evolves, it remembers, and it goes with the token. By Order Of HoodStreet.",
+  "image": "https://meta.hstreet.xyz/images/4141.webp",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Street Shutters"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Porcelain"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hair & Headwear",
+      "value": "Bucket hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "smile"
+    }
+  ]
+}
